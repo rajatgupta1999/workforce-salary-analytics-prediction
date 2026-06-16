@@ -74,6 +74,22 @@ The dashboard includes:
 
 ---
 
+## Project Structure
+
+salary-prediction-project/
+
+├── Career_Intelligence_Project.ipynb
+
+├── Workforce_Salary_Analytics.pbix
+
+├── salary_analysis.csv
+
+├── dashboard screenshots
+
+└── README.md
+
+---
+
 ## Author
 
 Rajat Gupta
